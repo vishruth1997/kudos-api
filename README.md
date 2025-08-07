@@ -1,4 +1,4 @@
-# Kudos GraphQL API
+# Nest Kudos GraphQL API
 
 This is a real-time employee recognition GraphQL API built using Apollo Server, Express, TypeScript, and WebSockets.
 
@@ -17,8 +17,8 @@ Follow these steps to install and run the API locally.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/vishruth1997/nest-kudos-api
-cd nest-kudos-api
+git clone https://github.com/vishruth1997/kudos-api.git
+cd kudos-api
 ```
 
 ### 2. Install dependencies

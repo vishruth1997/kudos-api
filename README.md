@@ -1,4 +1,4 @@
-# Nest Kudos GraphQL API
+# Kudos GraphQL API
 
 This is a real-time employee recognition GraphQL API built using Apollo Server, Express, TypeScript, and WebSockets.
 
